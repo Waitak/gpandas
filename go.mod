@@ -1,4 +1,4 @@
-module gpandas
+module github.com/waitak/gpandas
 
 go 1.23.0
 
